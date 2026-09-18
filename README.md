@@ -1,4 +1,4 @@
-# 👋 Hey, I'm RackRunner1
+# 👋 Hey, I'm RackRunner
 
 🇫🇷 Developer from France focused on **web development, privacy and infrastructure**.
 
