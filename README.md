@@ -12,7 +12,7 @@ I mainly build with **HTML, CSS & JavaScript**, while also working with modern w
 
 ### 💻 Development
 - HTML
-- - CSS
+- CSS
 - JS
 - TS
 - React
