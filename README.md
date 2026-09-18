@@ -42,7 +42,7 @@ A collection of useful everyday tools designed with a strong focus on **privacy 
 - 🧩 Built with HTML, CSS & JavaScript
 - 🛠️ Vite-based development environment
 
- **Website:** tbxm.org
+ **Website:** [tbxm.org](<https://www.tbxm.org/>)
 
 ---
 
