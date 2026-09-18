@@ -61,7 +61,7 @@ A collection of useful everyday tools designed with a strong focus on **privacy 
 
 ## 📊 GitHub Activity
 ![contrib](https://github-readme-activity-graph-delta-weld.vercel.app/graph?username=RackRunner1&theme=github-compact)
-![Streak](https://streak-stats.demolab.com/?user=Slownover&locale=fr)
+![Streak](https://streak-stats.demolab.com/?user=RackRunner1&locale=fr)
 
 
 ---
