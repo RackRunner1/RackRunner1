@@ -10,23 +10,13 @@ I mainly build with **HTML, CSS & JavaScript**, while also working with modern w
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Development
-- HTML
-- CSS
-- JS
-- TS
-- React
-- Node.js
-- Go
-
-### ⚙️ Infrastructure & Tools
-
-- OVHcloud
-- Cloudflare
-- NPM
-- Git
-
-**Also working with:** UFW, Linux server administration and web infrastructure.
+| Area | Stack |
+| --- | --- |
+| 🌐 **Web** | HTML · CSS · JavaScript · TypeScript · React |
+| ⚙️ **Backend** | Node.js · Go |
+| 🖥️ **Systems** | Linux · UFW |
+| ☁️ **Infrastructure** | OVHcloud · Cloudflare |
+| 🔧 **Tooling** | Git · npm · Vite |
 
 ---
 
