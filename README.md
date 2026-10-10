@@ -32,7 +32,20 @@ A collection of useful everyday tools designed with a strong focus on **privacy 
 - 🧩 Built with HTML, CSS & JavaScript
 - 🛠️ Vite-based development environment
 
- **Website:** [tbxm.org](<https://www.tbxm.org/>)
+**Website:** [tbxm.org](<https://www.tbxm.org/>)
+
+### 🔨 [ToolsBoXApp (TBXA)](https://github.com/RackRunner1/ToolsBoXApp)
+
+A Linux desktop application designed to run **ToolsBoXMachine (TBXM)** locally, with a strong focus on **privacy, offline usage, and accessibility**.
+
+- 🐧 Linux desktop application
+- 🔒 Privacy-oriented and offline-capable
+- 🌐 Runs TBXM without an internet connection
+- ⚡ Lightweight and easy to use
+- 🧩 Integrates web-based tools into a standalone application
+- 🛠️ Designed to run locally without requiring an online connection
+
+**Based on:** [ToolsBoXMachine (TBXM)](https://github.com/RackRunner1/ToolsBoXMachine)
 
 ---
 
