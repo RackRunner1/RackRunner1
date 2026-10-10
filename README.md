@@ -34,6 +34,8 @@ A collection of useful everyday tools designed with a strong focus on **privacy 
 
 **Website:** [tbxm.org](<https://www.tbxm.org/>)
 
+---
+
 ### 🔨 [ToolsBoXApp (TBXA)](https://github.com/RackRunner1/ToolsBoXApp)
 
 A Linux desktop application designed to run **ToolsBoXMachine (TBXM)** locally, with a strong focus on **privacy, offline usage, and accessibility**.
