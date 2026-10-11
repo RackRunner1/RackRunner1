@@ -15,7 +15,7 @@ I mainly build with **HTML, CSS & JavaScript**, while also working with modern w
 | 🌐 **Web** | HTML · CSS · JavaScript · TypeScript · React |
 | ⚙️ **Backend** | Node.js · Go |
 | 🖥️ **Systems** | Linux · UFW |
-| ☁️ **Infrastructure** | OVHcloud · Cloudflare |
+| ☁️ **Infrastructure** | OVHcloud · Cloudflare · Proxmox |
 | 🔧 **Tooling** | Git · npm · Vite |
 
 ---
