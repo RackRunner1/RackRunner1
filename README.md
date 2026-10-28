@@ -30,7 +30,6 @@ A collection of useful everyday tools designed with a strong focus on **privacy 
 - 🔒 Privacy-oriented
 - ⚡ Lightweight and fast
 - 🧩 Built with HTML, CSS & JavaScript
-- 🛠️ Vite-based development environment
 
 **Website:** [tbxm.org](<https://www.tbxm.org/>)
 
