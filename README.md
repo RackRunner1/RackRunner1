@@ -17,7 +17,7 @@ I mainly build with **HTML, CSS & JavaScript**, while also working with modern w
 | ⚙️ **Scripts** | Python · Bash · Node.js|
 | 🖥️ **Systems** | Linux · UFW · Windows Server |
 | ☁️ **Infrastructure** | OVHcloud · Cloudflare · Proxmox · Docker |
-| 🔧 **Tooling** | Git · npm · Vite · OpenCode |
+| 🔧 **Tooling** | Git · npm · Vite · OpenCode · Angry IP Scanner · FileZilla · SSH|
 
 ---
 
