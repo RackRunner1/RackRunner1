@@ -12,11 +12,11 @@ I mainly build with **HTML, CSS & JavaScript**, while also working with modern w
 
 | Area | Stack |
 | --- | --- |
-| 🌐 **Web** | HTML · CSS · JavaScript · TypeScript · React |
+| 🌐 **Web** | HTML · CSS · JavaScript · TypeScript · React · Nginx · Caddy · Next.js |
 | ⚙️ **Backend** | Node.js · Go |
 | ⚙️ **Scripts** | Python · Bash · Node.js|
 | 🖥️ **Systems** | Linux · UFW · Windows Server |
-| ☁️ **Infrastructure** | OVHcloud · Cloudflare · Proxmox · Docker · Nginx · Caddy · Next.js |
+| ☁️ **Infrastructure** | OVHcloud · Cloudflare · Proxmox · Docker |
 | 🔧 **Tooling** | Git · npm · Vite · OpenCode |
 
 ---
