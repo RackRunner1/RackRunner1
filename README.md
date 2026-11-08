@@ -36,7 +36,7 @@ A collection of useful everyday tools designed with a strong focus on **privacy 
 
 ---
 
-### 🔨 [ToolsBoXApp (TBXA)](https://github.com/RackRunner1/ToolsBoXApp)
+### 🐧 [ToolsBoXApp (TBXA)](https://github.com/RackRunner1/ToolsBoXApp)
 
 A Linux desktop application designed to run **ToolsBoXMachine (TBXM)** locally, with a strong focus on **privacy, offline usage, and accessibility**.
 
@@ -48,6 +48,21 @@ A Linux desktop application designed to run **ToolsBoXMachine (TBXM)** locally, 
 - 🛠️ Designed to run locally without requiring an online connection
 
 **Based on:** [ToolsBoXMachine (TBXM)](https://github.com/RackRunner1/ToolsBoXMachine)
+
+---
+
+### 🌐 [ToolsBoXWeb](https://github.com/RackRunner1/ToolsBoXWeb)
+
+A small Go HTTP server that serves the static website of **ToolsBoXMachine (TBXM)**, with a strong focus on **privacy**, **security**, and **simplicity**.
+
+- 🐹 Single Go binary with no external dependencies
+- 🔒 No request logging: no IPs, user agents, or referrers
+- 🛡️ Blocks `.git`, `.env`, and dotfiles, and only accepts `GET` and `HEAD`
+- 🔗 Clean URLs with automatic `.html` redirects
+- ⚡ Built-in HTTP cache policy and security headers
+- ⚙️ Configuration through environment variables
+
+**Serves:** [ToolsBoXMachine (TBXM)](https://github.com/RackRunner1/ToolsBoXMachine)
 
 ---
 
