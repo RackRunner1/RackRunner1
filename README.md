@@ -81,7 +81,7 @@ A small Go HTTP server that serves the static website of **ToolsBoXMachine (TBXM
 
 ## 📊 GitHub Activity
 ![contrib](https://github-readme-activity-graph-delta-weld.vercel.app/graph?username=RackRunner1&theme=github-compact)
-![Streak](https://streak-stats.demolab.com/?user=RackRunner1&locale=fr)
+![Streak](https://streak-stats.demolab.com/?user=RackRunner1&locale=en)
 
 
 ---
